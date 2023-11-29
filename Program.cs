@@ -12,7 +12,7 @@ namespace SecondCSharpProject
         {
             int a = 10,c;
             c = a * a;
-            Console.WriteLine("Square = " + c)
+            Console.WriteLine("Square = " + c);
         }
         static void Main(string[] args)
         {
